@@ -1,7 +1,8 @@
-# Simple Grafana Docker ovveride
+# Simple Grafana Docker override
 
 ## Overview
 - inserts a custom override of the grafana.ini config
-- deployed to quay.io with tage latest
+  - enabled smtp and creds
+- deployed to quay.io with tag latest
 
 
